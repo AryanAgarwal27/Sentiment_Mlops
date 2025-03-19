@@ -1,0 +1,6 @@
+[cache]
+    dir = cache
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = s3://sentiment-analysis-mlops
